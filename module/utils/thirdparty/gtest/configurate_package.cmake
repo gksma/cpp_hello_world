@@ -1,5 +1,5 @@
 project(
-  GTest
+  GTEST
   LANGUAGES CXX
   VERSION 1.12.1
   DESCRIPTION "Google Test"
