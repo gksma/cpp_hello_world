@@ -2,7 +2,7 @@
 
 #include "/home/gksma/repos/cpp_hello_world/module/utils/include/utils/utils.hpp"
 
-void Print(const std::string& message)
+void Print_input(const std::string& inputted_message)
 {
-    std::cout << message << std::endl;
+    std::cout << inputted_message << std::endl;
 }
